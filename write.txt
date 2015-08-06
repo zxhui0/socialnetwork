@@ -36,7 +36,9 @@ N1*P1+N1*P1*c*p/(1-c*p)
 
 
 
-
+分类方法
+language:
+搜索的时候有个advanced search 在左边，选中后里面可以选语言。我发现Agda共有359个project，仿佛比较合适。
 
 
 
